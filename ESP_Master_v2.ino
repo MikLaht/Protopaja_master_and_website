@@ -1,4 +1,4 @@
-// Koodi, jolla master vastaanottaa radiolla dataa slaveilta ja lähettää
+// Koodi, jolla master vastaanottaa radiolla dataa slaveilta ja lähettää 
 // sen eteenpäin serverille wifi managerin määrittämän wifin kautta
 
 // rf-moduuli NodeMCU:n pinneihin:
